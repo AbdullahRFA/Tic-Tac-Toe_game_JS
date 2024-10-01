@@ -1,6 +1,3 @@
-Here's a detailed README file for your Tic-Tac-Toe project, covering everything a developer would need to understand and run your project:
-
----
 
 # Tic-Tac-Toe Game to Increase JavaScript Skills
 
